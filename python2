@@ -1,0 +1,14 @@
+a=10
+b=127
+c='a'
+d='am'
+e=5.5
+f=1119934.550
+g=12345678
+print("a is type of=",type(a))
+print("b is type of=",type(b))
+print("c is type of=",type(c))
+print("d is type of=",type(d))
+print("e is type of=",type(e))
+print("f is type of=",type(f))
+print("g is type of=",type(g))
