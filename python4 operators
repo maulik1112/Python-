@@ -1,0 +1,83 @@
+print("...i)arithmatic operaters")
+a=10
+b=3
+print("addition:",a+b)
+print("subtrection:",a-b)
+print("multipication:",a*b)
+print("division:",a/b)
+print("floor division:",a|b)
+print("moduls:",a%b)
+print("exponent:",a**b)
+
+print("\n...ii)relational operaters")
+print("a==b:",a==b)
+print("a!=b:",a!=b)
+print("a>b:",a>b)
+print("a<b:",a<b)
+print("a>=b:",a>=b)
+print("a<=b:",a<=b)
+
+print("\n...iii)assigement operaters")
+x=5
+print("initial x:",x)
+x+=3
+print("after x+=3:",x)
+x*=2
+print("after x*=2:",x)
+x-=4
+print("after x-=4:",x)
+x/=2
+print("after x/=2:",x)
+x%=3
+print("after x%=3:",x)
+
+print("\n...iv)logical operaters")
+x=True
+y=False
+print("x and y:",x and y)
+print("x or y:",x or y)
+print("not x:", not x)
+
+print("\n...v)bitwise operaters")
+p=6
+q=3
+print("p & q(AND):",p&q)
+print("p | q(OR):",p|q)
+print("p ^ q(Xor):",p^q)
+print("~ q(NOT):",~q)
+print("p<<1(Left shift):",p<<1)
+print("p>>1(Right shift):",p>>1)
+
+print("\n...vi)ternary operaters")
+age=19
+status="Adult" if age >=19 else "minor"
+print("status based on age:",status)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
