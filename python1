@@ -1,0 +1,10 @@
+
+x=10
+y=10
+"""x=input("enter first value:")
+   y=input("enter second value:")"""
+print("adition is=",(x+y))
+print("substraction is=",(x-y))
+print("division is=",(x/y))
+print("moduls is=",(x%y))
+ 
